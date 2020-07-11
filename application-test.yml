@@ -1,2 +1,2 @@
 config:
-  environment: test
+  environment: test,v_1.0
